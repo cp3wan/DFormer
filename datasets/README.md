@@ -20,7 +20,7 @@ $DETECTRON2_DATASETS/
 You can set the location for builtin datasets by `export DETECTRON2_DATASETS=/path/to/datasets`.
 If left unset, the default is `./datasets` relative to your current working directory.
 
-The [model zoo](https://github.com/facebookresearch/MaskFormer/blob/master/MODEL_ZOO.md)
+The model zoo
 contains configs and models that use these builtin datasets.
 
 
