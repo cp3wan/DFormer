@@ -34,7 +34,7 @@ We provide the baseline results and trained models available for download.
 <th valign="bottom">download</th>
 <!-- TABLE BODY -->
 <!-- ROW: dformer_R50_bs16_50ep -->
- <tr><td align="left"><a href="configs/coco/panoptic-segmentation/dformer2_R50_bs16_50ep.yaml">DFormer</a></td>
+ <tr><td align="left"><a href="configs/coco/panoptic-segmentation/dformer_R50_bs16_50ep.yaml">DFormer</a></td>
 <td align="center">R50</td>
 <td align="center">50</td>
 <td align="center">51.1</td>
