@@ -3,7 +3,7 @@
 Hefeng Wang, Jiale Cao, Rao Muhammad Anwer, Jin Xie,
 Fahad Shahbaz Khan, Yanwei Pang
 
-![](fig-arch1.png)
+![](fig-arch1.png width=60%)
 
 ## Installation
 
