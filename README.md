@@ -117,10 +117,10 @@ We provide the baseline results and trained models available for download.
 If you use DFormer in your research or wish to refer to the baseline results published in the Model Zoo and Baselines, please use the following BibTeX entry.
 
 ```BibTeX
-@inproceedings{wangdformer,
+@article{wang2023dformer,
   title={DFormer: Diffusion-guided Transformer for Universal Image Segmentation},
-  author={Hefeng Wang, Jiale Cao, Rao Muhammad Anwer, Jin Xie, Fahad Shahbaz Khan, Yanwei Pang},
-  journal={arXiv:2306.03437},
+  author={Wang, Hefeng and Cao, Jiale and Anwer, Rao Muhammad and Xie, Jin and Khan, Fahad Shahbaz and Pang, Yanwei},
+  journal={arXiv preprint arXiv:2306.03437},
   year={2023}
 }
 ```
