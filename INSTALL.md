@@ -27,7 +27,7 @@ TORCH_CUDA_ARCH_LIST='8.0' FORCE_CUDA=1 python setup.py build install
 
 ### Example conda environment setup
 ```bash
-conda create --name mask2former python=3.8 -y
+conda create --name dformer python=3.8 -y
 conda activate mask2former
 conda install pytorch==1.9.0 torchvision==0.10.0 cudatoolkit=11.1 -c pytorch -c nvidia
 pip install -U opencv-python
