@@ -38,6 +38,10 @@ cd detectron2
 pip install -e .
 pip install git+https://github.com/cocodataset/panopticapi.git
 pip install git+https://github.com/mcordts/cityscapesScripts.git
-
+git clone https://github.com/cp3wan/DFormer
+cd Dformer
+pip install -r requirements.txt
+cd dformer/modeling/pixel_decoder/ops
+sh mask.sh
 
 ```
